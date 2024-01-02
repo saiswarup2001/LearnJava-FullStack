@@ -1,0 +1,14 @@
+What is package?
+Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces.
+
+used for:
+- Preventing naming conflicts.
+- Making searching/locating and usage of classes, interfaces, enumerations and annotations easier.
+- Packages can be considered as data encapsulation (or data-hiding).
+
+- Naming Convetions:
+    Packages are named in reverse order of domain names, i.e., org.saiswarup.practice. For example, in a college, the recommended convention is college.tech.cse, college.tech.ee, college.art.history, etc.
+
+- Types of Package:
+    Built - in package: used by java API: -> java.lang, java.io, java.applet, java.awt etc.
+    User - defied Package: made by user itself -> myPackage, MyWorld etc.
